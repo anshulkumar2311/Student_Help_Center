@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "306421746585",
+    "project_id": "stu-help-center",
+    "storage_bucket": "stu-help-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306421746585:android:3dde6ab157991adabda108",
+        "android_client_info": {
+          "package_name": "com.example.stu_help"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306421746585-kmio6fh3j9ambjvqrjp4bh1iadvoh88c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stu_help",
+            "certificate_hash": "2954406c8258152dfa8642f7e34dde3d45dd243d"
+          }
+        },
+        {
+          "client_id": "306421746585-9oguojm46nm546a1ijo79k4apgtgcl6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOlmRESpKgw6NYgbXfEhhfXwIgKaPN9hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306421746585-9oguojm46nm546a1ijo79k4apgtgcl6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
